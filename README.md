@@ -25,4 +25,12 @@ MARGIN => Dış boşluğu temsil eder.
 
 ![linear2](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/79b43016-70bb-47da-b703-71782df7e144)
 
+# RELATIVE LAYOUT
+
+
+![relative](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/ecfccd07-eb6b-4e54-aa0c-64d72e41e943)
+
+
+![relative2](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/fcfbffab-7a89-430b-9506-4a6b04cc9d2c)
+
 
