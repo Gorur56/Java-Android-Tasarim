@@ -11,6 +11,12 @@ Gravity ekranın tamamını kaplar. Layout gravity içeri kadar kaplar.
 
 ![gravity](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/bc1bf3c6-70c8-4cac-8653-f52e9b7d56c3)
 
+##PADDING AND MARGIN
+
+PADDING => Cismin iç boşluğu temsil eder.
+
+MARGIN => Dış boşluğu temsil eder.
+
 
 ## LINEAR TASARIM
 
