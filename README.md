@@ -5,20 +5,20 @@ Match_content 'de ise ekrana göre tüm genişliği ve yükseklik kaplar.
 
 ![tasarim](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/db35612d-b84c-4da8-9e25-94e0ab1eb094)
 
-##GRAVITY
+## GRAVITY
 
 Gravity ekranın tamamını kaplar. Layout gravity içeri kadar kaplar.
 
 ![gravity](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/bc1bf3c6-70c8-4cac-8653-f52e9b7d56c3)
 
-##PADDING AND MARGIN
+## PADDING AND MARGIN
 
 PADDING => Cismin iç boşluğu temsil eder.
 
 MARGIN => Dış boşluğu temsil eder.
 
 
-## LINEAR TASARIM
+# LINEAR TASARIM
 
 ![linear](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/1b2a0fef-b404-4ea3-aa6f-028262f4b80b)
 
