@@ -37,6 +37,8 @@ MARGIN => Dış boşluğu temsil eder.
 
 # CONSTRAINT LAYOUT
 
+Linear ve Relatibe layout 'un daha gelişmiş halidir. Yaygın olarak şu an bu layout kullanılıyor.
+
 ![Constraint](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/5775d6e6-6a7c-4151-86f6-53f12a8ac409)
 
 
