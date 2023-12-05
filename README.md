@@ -33,6 +33,8 @@ MARGIN => Dış boşluğu temsil eder.
 
 ![relative2](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/fcfbffab-7a89-430b-9506-4a6b04cc9d2c)
 
+
+
 # CONSTRAINT LAYOUT
 
 ![Constraint](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/5775d6e6-6a7c-4151-86f6-53f12a8ac409)
