@@ -1,4 +1,4 @@
-# Java-Android-Tasarim
+![image](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/51fdf05a-6b57-4ec3-9fc2-99ffe372b19a)# Java-Android-Tasarim
 
 Wrap_content 'de içerğe göre genişler ve yükseklik artar. 
 Match_content 'de ise ekrana göre tüm genişliği ve yükseklik kaplar.
@@ -40,6 +40,14 @@ MARGIN => Dış boşluğu temsil eder.
 Linear ve Relatibe layout 'un daha gelişmiş halidir. Yaygın olarak şu an bu layout kullanılıyor.
 
 ![Constraint](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/5775d6e6-6a7c-4151-86f6-53f12a8ac409)
+
+
+## SABİTLEME
+
+Constraint alt başlıklarını tek tek ele alacağız. Sabitleme ekrana eklediğimiz nesneleri belli metrikler vererek sabitlememeizi sağlıyor.
+
+![Screenshot 2023-12-07 103309](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/6805828a-6a49-41c7-8598-c2d3df2c78ca)
+
 
 
 
