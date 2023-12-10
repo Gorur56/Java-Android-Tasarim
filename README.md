@@ -42,5 +42,21 @@ Linear ve Relatibe layout 'un daha gelişmiş halidir. Yaygın olarak şu an bu 
 ![Constraint](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/5775d6e6-6a7c-4151-86f6-53f12a8ac409)
 
 
+## SABİTLEME
+
+Constraint alt başlıklarını tek tek ele alacağız. Sabitleme ekrana eklediğimiz nesneleri belli metrikler vererek sabitlememeizi sağlıyor.
+
+![Screenshot 2023-12-07 103309](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/6805828a-6a49-41c7-8598-c2d3df2c78ca)
+
+## BOYUTLANDIRMA
+
+Nesnelerin boyutlarını ayarladığımızda size 'ların yanına DP ve SP yazarız. Böylelikle DP olduğunda ekran büyüyüp küçüldüğünde nesne de büyüyüp küçülür. SP de ise ekran sabit kalır. SP özellikle yazılarda kullanılır. Çünküğ ekran büyüdükçe daha çok metin gözükür.
+
+
+![boyutlandirma](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/93db3361-d27d-479b-adfa-c502995a70c2)
+
+
+
+
 
 
