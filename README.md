@@ -57,9 +57,17 @@ Nesnelerin boyutlarını ayarladığımızda size 'ların yanına DP ve SP yazar
 
 # ÇOKLU EKRAN DESTEĞİ
 
+## TASARIM
+
 Farklı telefonlada farklı ekran boyutlarına göre layout oluşturabiliriz. Default olak layout dosyası kalacaktır. Aradığı diğer dosyaları kullşanmıyorsa default layout kullanacaktır.
 
 ![image](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/fadbf0f8-98f9-4fcc-9a0e-75cde5b4c19c)
+
+## RESİM
+
+Eğer resimlerin farklı ekranda çözünürlüğümü ayarlayacaksak aşağıdaki dosyalar gibi oluşturuyoruz.
+
+![image](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/040061a9-57ca-4217-b354-5896f58bdcda)
 
 
 
