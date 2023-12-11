@@ -69,12 +69,6 @@ Eğer resimlerin farklı ekranda çözünürlüğümü ayarlayacaksak aşağıda
 
 ![image](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/040061a9-57ca-4217-b354-5896f58bdcda)
 
-# ÇOKLU DİL DESTEĞİ
-
-  Values dosyaalrını çoğaltıp string dosylarında kullanmak istediğimiz dil değsteğini kullanabiliriz. Default varsayılan çalışacaktır.
-
-  ![image](https://github.com/Gorur56/Java-Android-Tasarim/assets/54911292/7b88e6af-715f-4712-91d5-c1f6140afbef)
-
 
   
 
